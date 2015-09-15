@@ -1,0 +1,10 @@
+You will need to download the data to run these notebooks, but the files are large, so they should not be committed to github. ( The .gitignore file will disallow this.  )
+
+1) Download this file: http://www5.cde.ca.gov/caasppresearchfiles/2015/ca2015_all_csv_v1.zip
+2) Move it to the same directory as this README file. 
+3) Unpack it. 
+
+
+When you create a new Ipython Notebook, first create a directory with your name, then put the Notebook in the directory. 
+
+NEVER NEVER NEVER open and write changes to someone else's work book. You can view them in Ipython Notebook, but don't make any changes. If you want to modify someone else's notebook, duplicate it first. If two people make changes to a notebook, and both commit the changes to Github, the files will get corrupted. 
